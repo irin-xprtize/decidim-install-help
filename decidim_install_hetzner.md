@@ -314,7 +314,7 @@ sudo certbot --nginx -d decidim-xprtize.org
 
  Create application specific password in the Gmail account
 
- ![smtp](C:\Users\irins\Downloads\smtp.png)
+ ![smtp](https://github.com/irin-xprtize/decidim-install-help/blob/main/smtp.png)
 
 * Update Github
 ```

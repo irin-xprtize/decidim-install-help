@@ -4,13 +4,17 @@
 
 * Install Ubuntu 20.04 on PC
 * Register an account and set up server in Hetzner cloud. Reference: https://docs.hetzner.com/cloud/servers/getting-started/creating-a-server
+
 Choose Ubuntu as the OS
+
 Dedicated server
+
 Server???
 Volume???
 Network???
 Firewall???
 Additional features - userdata, backups, placement groups???
+
 Set up SSH keys on the PC and copy/paste to the server registration panel
 ```
 sshkeygen
